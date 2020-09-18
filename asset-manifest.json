@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vladbench.github.io/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/vladbench.github.io/static/js/main.32d194b5.chunk.js",
+    "main.js.map": "/vladbench.github.io/static/js/main.32d194b5.chunk.js.map",
+    "runtime-main.js": "/vladbench.github.io/static/js/runtime-main.23602631.js",
+    "runtime-main.js.map": "/vladbench.github.io/static/js/runtime-main.23602631.js.map",
+    "static/css/2.dc17f35a.chunk.css": "/vladbench.github.io/static/css/2.dc17f35a.chunk.css",
+    "static/js/2.455fd1f4.chunk.js": "/vladbench.github.io/static/js/2.455fd1f4.chunk.js",
+    "static/js/2.455fd1f4.chunk.js.map": "/vladbench.github.io/static/js/2.455fd1f4.chunk.js.map",
+    "index.html": "/vladbench.github.io/index.html",
+    "precache-manifest.777aa568131d8a8b7cf1b73c502730b8.js": "/vladbench.github.io/precache-manifest.777aa568131d8a8b7cf1b73c502730b8.js",
+    "service-worker.js": "/vladbench.github.io/service-worker.js",
+    "static/css/2.dc17f35a.chunk.css.map": "/vladbench.github.io/static/css/2.dc17f35a.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/vladbench.github.io/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.455fd1f4.chunk.js.LICENSE.txt": "/vladbench.github.io/static/js/2.455fd1f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23602631.js",
+    "static/css/2.dc17f35a.chunk.css",
+    "static/js/2.455fd1f4.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.32d194b5.chunk.js"
+  ]
+}
